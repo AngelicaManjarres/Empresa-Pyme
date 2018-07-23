@@ -1,0 +1,16 @@
+{
+  "name": "empresa",
+  "version": "1.0.0",
+  "description": "base para pagina estatica para empresa",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Cuervo",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.16.3",
+    "express-handlebars": "^3.0.0",
+    "lightbox2": "^2.10.0"
+  }
+}
